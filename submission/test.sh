@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Import helper functions
-#source submission/functions.sh
+source submission/functions.sh
 
 # Week One Exercise: Bitcoin Address Generation and Transaction Verification
 # This script demonstrates using the key concepts from previous exercises in a practical scenario
@@ -14,7 +14,7 @@ set -e
 # ========================================================================
 
 # Set up the challenge scenario
-#setup_challenge
+setup_challenge
 
 # CHALLENGE PART 1: Create a wallet to track your discoveries
 echo "CHALLENGE 1: Create your explorer wallet"
