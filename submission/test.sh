@@ -30,6 +30,7 @@ bitcoin-cli createwallet "btrustwallet"
 echo "Now, create another wallet called 'treasurewallet' to fund your adventure"
 # STUDENT TASK: Create another wallet called "treasurewallet"
 # WRITE YOUR SOLUTION BELOW:
+bitcoin-cli createwallet "treasurewallet"
 
 
 # Generate an address for mining in the treasure wallet
